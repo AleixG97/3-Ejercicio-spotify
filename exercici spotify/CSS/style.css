@@ -1,0 +1,54 @@
+
+
+
+.tabla1{
+    width: 1000px;
+    color: rgb(255, 255, 255); 
+
+}
+
+body{
+    background-color: rgb(27, 27, 27);
+}
+
+.col1{
+  height: 100px;
+}
+.col2{
+  height: 100px;
+}
+.col3{
+  height: 100px;
+}
+.col4{
+  height: 100px;
+}
+.col5{
+  height: 100px;
+}
+.col6{  
+  height: 100px;
+}
+.col7{
+  height: 100px;
+}
+.col8{
+  height: 100px;
+}
+.col9{
+  height: 100px;
+}
+.col10{
+  height: 100px;
+}
+
+th{
+  margin-left: 3000px;
+}
+
+td{
+  text-align: left 700px;
+}
+
+
+
